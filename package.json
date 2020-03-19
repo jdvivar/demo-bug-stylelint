@@ -1,0 +1,11 @@
+{
+  "name": "demo-bug-stylelint",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "stylelint --syntax css-in-js test.ts"
+  },
+  "devDependencies": {
+    "stylelint": "^13.2.1",
+    "stylelint-config-standard": "^20.0.0"
+  }
+}
